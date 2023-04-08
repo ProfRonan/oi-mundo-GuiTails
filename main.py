@@ -1,1 +1,1 @@
-oi mundo!
+print("oi mundo!")
